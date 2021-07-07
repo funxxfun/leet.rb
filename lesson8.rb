@@ -1,5 +1,5 @@
-def greeting
+def greeting(name)
   "Hello"
 end
 
-puts greeting
+puts greeting('John')
